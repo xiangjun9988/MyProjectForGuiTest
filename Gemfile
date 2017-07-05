@@ -20,3 +20,5 @@ this is test changing
 this is test for gui
 this is test changing
 this is test for gui
+
+今天有一股力量，使得我们不得不走这一步，就是耽误不少时间。最后汉化
